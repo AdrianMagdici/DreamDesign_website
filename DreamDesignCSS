@@ -1,0 +1,6 @@
+body {
+    background-color: #212121;
+}
+hr {
+    color: #7043c4;
+}
